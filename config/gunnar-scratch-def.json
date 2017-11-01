@@ -1,0 +1,13 @@
+{
+  "country": "US",
+  "edition": "Developer",
+  "features": "DebugApex",
+  "orgPreferences": {
+    "enabled": [
+      "S1DesktopEnabled"
+    ],
+    "disabled": []
+  },
+  "orgName": "@guw Scratch Org",
+  "adminEmail": "gwagenknecht@salesforce.com"
+}
